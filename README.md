@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Carl0376
+- 👀 I’m interested in JavaScript、react and so on.
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me .
